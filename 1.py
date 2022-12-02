@@ -1,3 +1,4 @@
+# day 1
 # reads in the input data as a txt file, as a list of numbers and empty lines. Prints the output.
 
 # puzzle one
